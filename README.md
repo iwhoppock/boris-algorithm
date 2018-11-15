@@ -6,6 +6,8 @@ The Boris algorithm for numerically tracing non-relativistic charged particles i
 
 To compile the C code, use autotools: (1) autoreconf -i (2) ./configure (3) make (4) ./boris
 
+NB: This is parallelised using OpenMP (shared memory parallel processing). The user may disable the header <omp.h> and the line "#pragma omp parallel for".
+
 ## Fortran90
 
 A fortran90 version is available upon request. 
