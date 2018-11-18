@@ -1,6 +1,6 @@
 # Boris Algorithm or Boris Pusher or Boris Rotation
 
-The Boris algorithm for numerically tracing non-relativistic charged particles in electromagnetic fields. The basic algorithm may be found in either the python or Matlab scripts. The C file allows for multiple particles in a Maxwellian velocity distribution. I have included a matlab plotting script for the C output (.csv format).
+The Boris algorithm for numerically tracing non-relativistic charged particles in electromagnetic fields. The basic algorithm may be found in either the python or Matlab scripts. The C file allows for multiple particles in a Maxwellian velocity distribution. I have included a matlab plotting script for the C output (.csv format). I have included a function file in the Matlab format. 
 
 ## The C Code
 
