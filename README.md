@@ -11,3 +11,10 @@ NB: This is parallelised using OpenMP (shared memory parallel processing). The u
 ## Fortran90
 
 A fortran90 version is available upon request. 
+
+## Additional Resources
+
+For additional resources for particle pushing, I recommend these two delightful blog posts and their associated references. I believe there is also sample code written in Java: 
+
+- https://www.particleincell.com/2011/velocity-integration/
+- https://www.particleincell.com/2011/vxb-rotation/
