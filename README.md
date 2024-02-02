@@ -18,3 +18,7 @@ For additional resources for particle pushing, I recommend these two delightful 
 
 - https://www.particleincell.com/2011/velocity-integration/
 - https://www.particleincell.com/2011/vxb-rotation/
+
+Dear Ian,
+
+I'm tui from Hiroshima Univeristy, Japan. Now I'm trying to simulate particle under magnetic and electric field by using Boris method for particle pusher. I also applied your code into fortran language and constrcuted the main program. My fortran program assumed particle moving in 1D spatial space with 3D velocity. The magnetic field and electric field is the same direction in z-axis. Anyway, the velocity profiles from my simulation provided flucmmtuated to kinetic energy when I squared those velcoities. Could you give any comments to my program? The main program is available from https://drive.google.com/drive/folders/1vxzcUSz337SQlb5np-PJOYH8C9PLIG58?usp=drive_link . Thank you very much   
